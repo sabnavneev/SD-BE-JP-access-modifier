@@ -40,8 +40,8 @@ Voeg de volgende code toe aan MainThree.java:
         System.out.println(hans.getSofiNumber());
 ```
 
-De code werkt nu niet. Voeg de klasse Doctor toe. Doctor is een subklasse van Human. Pas Doctor zo aan dat de code in
-MainThree gaat werken.
+De code werkt nu niet. Voeg de klasse Doctor toe. Doctor is een subklasse van Human. Pas de klasse Doctor zo aan dat de
+code in MainThree gaat werken.
 
 Deze opdracht heeft tips. Probeer het eerst zonder en probeer daarna de opdracht tip voor tip.
 
