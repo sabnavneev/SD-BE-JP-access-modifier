@@ -7,8 +7,15 @@ public class Person {
         this.name = name;
     }
 
-    private String getName() {
+    public String getName() {
         return name;
     }
 
 }
+
+//    Voeg de volgende code aan de MainOne klasse toe: System.out.println(sjaak.getName());.
+//        De code geeft nu een foutmelding. Pas Person.java aan. Welke drie opties heb je?
+
+// 1. private > public (getter)
+// 2.
+// 3.
